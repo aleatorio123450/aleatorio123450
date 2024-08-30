@@ -1,9 +1,9 @@
 ## boas vindas ao meu perfil 🐾
 meu nome é Marina Pizzaia
-- Estou começando no mundo da programação
+- Estou começando no meio do trabalho
 - Sou estudante da escola Leticia
 - Procuro aprender mais
-- Compartilho meus estudos e ideis aqui
+- Compartilho meus estudos e ideias aqui
 
 ## fique a vontade para entrar em contato comigo🤗
 
